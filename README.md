@@ -33,7 +33,7 @@ This analysis helps understand **player performance trends, salary distribution,
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/DAI_datascience_A1.git
+   git clone https://github.com/harsh-chauhaann/DAI_datascience_A1.git
    ```
 2. Open `EDA_FIFA23_Player_Stats.ipynb` in Jupyter Notebook or Google Colab.  
 3. Run all cells to generate insights.
